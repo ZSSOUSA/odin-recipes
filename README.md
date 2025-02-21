@@ -1,6 +1,7 @@
 # 🍲 Odin Recipes
 
-O **Odin Recipes** é um site simples de receitas desenvolvido como parte do currículo do [The Odin Project](https://www.theodinproject.com). Este projeto tem como objetivo reforçar o aprendizado dos conceitos fundamentais de **HTML** e a estruturação de um site estático.
+O **Odin Recipes** é um site simples de receitas desenvolvido como parte do currículo do [The Odin Project](https://www.theodinproject.com). 
+Este projeto tem como objetivo reforçar o aprendizado dos conceitos fundamentais de **HTML** e a estruturação de um site estático.
 
 ## 📑 Funcionalidades
 
